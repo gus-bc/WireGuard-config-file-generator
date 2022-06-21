@@ -1,0 +1,8 @@
+{
+	"config": {
+		"start_ip": "",
+		"end_ip": "",
+		"peer": "PublicKey= \nPresharedKey= \nAllowedIPs= \nEndpoint= \nPersistentKeepalive= ",
+		"DNS": ""
+	}
+}
